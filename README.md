@@ -1,5 +1,7 @@
-# UC_Data_Science-Analise_ENEM
+# Análise dos Mircodados de ENEM - Resumo
 
-O dados a serem utilizados são fornecidos oficialmente pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), que tem divulgado publicamente os microdados do ENEM (http://inep.gov.br/microdados) desde sua primeira edição em 1998. Algumas pesquisas e análises já foram realizadas anteriormente utilizando esta fonte de dados; normalmente, porém, as análises se basearam nos dados de algum ano ou região específicos.
+O é realizar uma análise qunatitativa sobre a dinâmica dos perfis inscritos no ENEM entre 2009 (ano em que passou por uma reformulação metodológica, tomando uma forma similar à que se é conhecida atualmente) e 2019, tendo em vista as condições socioeconômicas ou quaisquer outras características que possam ser o reflexo do cenário socioeconômico nacional.  
 
-Os microdados no formato .zip do ano de 2009 a 2019 (com exceções) estão compartilhados [aqui](https://drive.google.com/drive/folders/1dsv_h8M4tquTkbWaoXfNpPp_laHythsi?usp=sharing). Os anos de 2010, 2011, 2013 e 2016, por alguma razão ainda desconhecida, semore dava erro ao fazer o download.
+Com os [dados](dados/README.md) já à disposição no Google Drive, é aconselhável, caso o Google Colab seja utilizado, que se monte o Drive na plataforma. É possívle de se fazer acessando o último item do menu lateral da página inicial (Arquivos) e clicando em "Montar Drive" representado por um símbolo de uma pasta com a logo do Google Drive. Assim que o Drive estiver montado, procure por uma pasta compratilhada "Dados"
+
+
