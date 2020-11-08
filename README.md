@@ -6,7 +6,7 @@ Com os [dados](https://github.com/e-moncao-lima/UC_Data_Science-Analise_ENEM/blo
 
 ## Códigos
 
-O notebook python relativo à análise do ENEM do ano de 2019 está [aqui](https://github.com/e-moncao-lima/UC_Data_Science-Analise_ENEM/edit/main/analise_microdados_enem_2019(2).ipynb).
+O notebook python relativo à análise do ENEM do ano de 2019 está [aqui](https://github.com/e-moncao-lima/UC_Data_Science-Analise_ENEM/blob/main/analise_microdados_ENEM_2019(2).ipynb).
 
 
 
