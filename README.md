@@ -7,6 +7,12 @@ Com os // [dados](https://github.com/e-moncao-lima/UC_Data_Science-Analise_ENEM/
 
 ## Coleta e Pré-processamento dos Dados
 
+Com o drive já montado, foi necessário descompactar o arquivo .csv e fazer a leitura em partes (chunks), pois, ao tentar ler todo o arquivo com read_csv de uma vez, a RAM alocada pelo Colab era extrapolada. Logo após, todos os chunks já pré-processados foram concatenados.
+
+## Análise Exploratória dos Dados
+
+
+
 
 
 
