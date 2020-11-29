@@ -46,9 +46,15 @@ As métricas utilizadas foram *Mean Squared Error (MSE)* e *Mean Absolute Error 
 
 Os resultados podem ser vistos no *Loss* das medidas após o treino da rede neural.
 
-![alt text](https://github.com/e-moncao-lima/UC_Data_Science-Analise_ENEM/blob/images/Neural_Loss.PNG)
+![](https://github.com/e-moncao-lima/UC_Data_Science-Analise_ENEM/blob/images/Neural_Loss.PNG)
 
-Como a variável target não foi normalizadas e a métrica utilização foi "Erro Quadrático", se tirar a raiz quadrada do erro final dá aproximadamente 64 pontos da nota média real.
+Como a variável target não foi normalizada e a métrica utilização foi "Erro Quadrático", se tirar a raiz quadrada do erro final dá que varia aproximadamente 64 pontos da nota média real. É uma margem razoável que, em trabalhos futuros, é possível ser reduzida ainda que generalizada ainda mais se estabelecidos outros métodos de escolha das variáveis.
+
+# Códigos
+
+- Os códigos do pré-processamento e Análise Exploratória estão no *branch preprocessing*
+
+- Os códigos dos algoritmos ML estão no *branch main*
 
 
 
